@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# NLog
+- project: NLog
+  role: Contributor
+  duration: August 2015 &mdash; February 2016
+  url: "https://github.com/orgs/NLog/people"
+  description: I contributed to NLog for a while. Cause of my contributions they put me on the official team.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Verilogy
+- project: Verilogy (Startup)
+  role: Team Leader
+  duration: August 2019 &mdash; Present
+  url: "https://verilogy.com"
+  description: Verilogy is a privacy management platform that empowers each stakeholder in the data protection ecosystem. I am gathering requirements from the project owner who is a lawyer that know the domain then I am planning and managing the sprints and developing the backend services. </br> Leveraged knowledge in gathering requirements and implementing them, planning sprints and team management, MongoDB, React, GDPR.
+
+# Gamubi
+- project: Gamubi (Startup)
+  role: Fullstack Developer
+  duration: 2019 &mdash; Present
+  url: "https://gamubi.com"
+  description: Gamubi is a social platform for esport lovers. I am building prototypes to satisfy business models that constantly changing in strange Turkey economy.
+
+# Restauran Client App.
+- project: Restaurant Automation Client (Android App)
+  role: Android Developer
+  duration: 2016
+  # url: ""
+  description: I developed an Android application that is a client for taking order and other things that done by restaurant staff (waitress). It communicates with the server through TCP socket. Server app was written in C++ and had no RESTful API.

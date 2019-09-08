@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Netsparker
+- company: Netsparker (Remote)
+  position: Senior Software Developer
+  duration: Jun, 2017 &mdash; Present 
+  summary: Netsparker develops industry leading desktop and cloud based automated web application security scanners which are trusted and used by world renowned companies such as Samsung, Ernst & Young, Skype, NASA, ISACA and ING Bank. <ul class="resume-item-list"><li>By working closely with the Security Researcher team, developed Security Check Engines which attack and identify vulnerabilities.</li><li>Responsible for quality and stability of the Security Check Engines and whole product functions such as crawling. I took over the internal testing tool and automatized its crucial functions.</li><li>Eliminated manual fail investigations by implementing a way on the internal testing tool which is similar to git bisect.</li><li>Using AWS API, decreased AWS costs by automating start/shutdown process of the test agents that run on AWS instances.</li><li>Responsible for a crucial service which helps to identify Out of Band vulnerabilities. Maintained its Docker images.</li></ul> </br> <p>Leveraged knowledge in Web Security, Go, AWS API, Linux, and Docker.</p>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Cronom
+- company: Cronom (Istanbul, Turkey)
+  position: Software Developer
+  duration:  Sep, 2016 &mdash; May, 2017
+  summary: I worked for an international company as an outsource software developer.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
+# Ester
+- company: Ester Elektronik (Eskisehir, Turkey)
   position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration:   2012 &mdash; Jan 2016
+  summary: Ester is a company that serving the public institutions and energy sector organizations. Its products used by 4,500,000 users until 2016, has active 1,700,000 members in 2016. Ester is a firm with the understanding of information security. <ul class="resume-item-list"><li>Designed and developed an SaaS product from scratch. Its key features were quota consumption based on the customer contract. Tenant based custom modules that can be mounted on runtime. It has been using by government and energy sector organizations.</li><li>Maintained platform that manages all M2M modular services that mostly using by government.</li><li>Performed load tests and improved performance by implementing various ways such as caching, optimizing SQL queries, thread optimizing.</li><li>Gathering requirements from stakeholders who are CTO and project manager and planning the development phase.</li></ul> Leveraged knowledge in product architecture design, WCF, multithreading, load testing and other testing types, high volume transaction, RDMS, performance optimization, multitenancy, modular design, requirement analysis, communication with stakeholders.
