@@ -15,7 +15,7 @@
 - company: Verilogy (Istanbul, Turkey)
   position: Senior Fullstack Developer
   duration: Dec, 2019 &mdash; May, 2020
-  summary: Verilogy is a technology company based in Istanbul which builds privacy enhancing tools for companies to simplify their privacy management and make it automated and seamless.<ul class="resume-item-list">      <li> Gathering requirements from the product manager who is also a privacy pro with deep industry knowledge.     </li>    <li> Responsible for the technical design and maintenance of the platform.</li><b>Tech stack: </b>ASP.NET Core, Web API, Entity Framework, ReactJS, PostgreSQL, MongoDB, Heroku, CI/CD pipeline (GitHub Actions)
+  summary: Verilogy is a technology company based in Istanbul which builds privacy enhancing tools for companies to simplify their privacy management and make it automated and seamless.<ul class="resume-item-list">      <li> Gathering requirements from the product manager who is also a privacy pro with deep industry knowledge.     </li>    <li> Responsible for the technical design and maintenance of the platform.</li> </ul><b>Tech stack: </b>ASP.NET Core, Web API, Entity Framework, ReactJS, PostgreSQL, MongoDB, Heroku, CI/CD pipeline (GitHub Actions)
 
 # Netsparker
 - company: Netsparker (aka Invicti Security, Remote, Istanbul, Turkey)
