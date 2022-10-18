@@ -5,12 +5,12 @@
 - project: NLog
   role: Contributor
   duration: August 2015 &mdash; February 2016
-  url: "https://github.com/orgs/NLog/people"
-  description: I contributed to NLog for a while. Cause of my contributions they put me on the official team.
+  url: "https://github.com/orgs/NLog"
+  description: NLog is a flexible and free logging platform for various .NET platforms,including .NET standard. Because of my contributions, I have been included onthe official team list.<ul class="resume-item-list">  <li>Developed and maintained a few logging target and layout renderer.</li>  <li>Answered user questions and helped them with various subjects.</li>  <li>Reviewed user bug reports and fixed them.</li>  <li>Reviewed Pull Requests</li>  <li>Maintained Wiki Pages and documentation.</li></ul><b>Tech Stack: </b>C#, AppVeyor, Travis CI, CodeCov, XUnit, Git
 
 # Restauran Client App.
 - project: Restaurant Automation Client (Android App)
   role: Android Developer
   duration: 2016
   # url: ""
-  description: I developed an Android application that is a client for taking order and other things that done by restaurant staff (waitress). It communicates with the server through TCP socket. Server app was written in C++ and had no RESTful API.
+  description: It is an Android app that used by restaurant staffs. It communicates with the server through a TCP socket. The server app was written in C++ and had no RESTful API.<b>Tech Stack:</b> Socket communication, Android Studio, Java

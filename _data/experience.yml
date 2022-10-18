@@ -1,19 +1,36 @@
 # Jobs
-# Netsparker
-- company: Netsparker (Remote)
+# Bondora
+- company: Bondora (Remote, Tallinn, Estonia)
+  position: Software Engineer
+  duration: Jul, 2022 &mdash; Present
+  summary: 
+
+# XYZ
+- company: Xyz Technology (Remote, Istanbul, Turkey)
   position: Senior Software Developer
-  duration: Jun, 2017 &mdash; Present 
-  summary: Netsparker develops industry leading desktop and cloud based automated web application security scanners which are trusted and used by world renowned companies such as Samsung, Ernst & Young, Skype, NASA, ISACA and ING Bank. <ul class="resume-item-list"><li>By working closely with the Security Researcher team, developed Security Check Engines which attack and identify vulnerabilities.</li><li>Responsible for quality and stability of the Security Check Engines and whole product functions such as crawling. I took over the internal testing tool and automatized its crucial functions.</li><li>Eliminated manual fail investigations by implementing a way on the internal testing tool which is similar to git bisect.</li><li>Using AWS API, decreased AWS costs by automating start/shutdown process of the test agents that run on AWS instances.</li><li>Responsible for a crucial service which helps to identify Out of Band vulnerabilities. Maintained its Docker images.</li></ul> </br> <p>Leveraged knowledge in Web Security, Go, AWS API, Linux, and Docker.</p>
+  duration: Jun, 2020 &mdash; Nov, 2021
+  summary: Xyz Technology is a technology development company working with companies suchas Scope Markets. Responsible for building a real-time application thatprocesses 3K messages per second. This application basically consumes price andtrading messages from Kafka then processes these messages in an algorithm tocalculate profit and loss of the trading company. It sends the calculationresults to the UI via Server Sent Events. It provides profit and loss insightfor the risk department of the trading company (Scope Markets).<b>Tech stack:</b> .Net Core, C#, PostgreSQL, MongoDb, Kafka, Akka.Net, Redis,ZeroMQ, WebSocket, Server Sent Events, IdentityServer4, Windows Service, WPF,Web API, Unit testing, Integration Testing, Microservices, Git and GitHub
+
+# Verilogy
+- company: Verilogy (Istanbul, Turkey)
+  position: Senior Fullstack Developer
+  duration: Dec, 2019 &mdash; May, 2020
+  summary: Verilogy is a technology company based in Istanbul which builds privacy enhancing tools for companies to simplify their privacy management and make it automated and seamless.<ul class="resume-item-list">      <li> Gathering requirements from the product manager who is also a privacy pro with deep industry knowledge.     </li>    <li> Responsible for the technical design and maintenance of the platform.</li><b>Tech stack: </b>ASP.NET Core, Web API, Entity Framework, ReactJS, PostgreSQL, MongoDB, Heroku, CI/CD pipeline (GitHub Actions)
+
+# Netsparker
+- company: Netsparker (aka Invicti Security, Remote, Istanbul, Turkey)
+  position: Senior Software Developer
+  duration: Jun, 2017 &mdash; Dec, 2019
+  summary: Netsparker develops industry leading desktop and cloud based automated webapplication security scanners which are trusted and used by world renownedcompanies such as Samsung, Ernst & Young, Skype, NASA, ISACA and ING Bank.<ul class="resume-item-list">  <li>    By working closely with the Security Researcher team, developed Security    Check Engines which attack and identify vulnerabilities.  </li>  <li>    Responsible for quality and stability of the Security Check Engines and    whole product functions such as crawling. Took ownership of the internal    testing tool and automatized its crucial functions.  </li>  <li>    Automated start/shutdown process of the test agents that run on AWS    instances via AWS API which decreased AWS costs by 50%.  </li>  <li>    Responsible for a crucial dockerized service which helps to identify Out of    Band vulnerabilities.  </li></ul> <b>Tech Stack: </b>.NET stack, C#, Web Application Security, AWS API, Linux,Docker, WinForms, DevExpress, Unit Testing, NUnit, TeamCity, ASP.NET MVC, Git
 
 # Cronom
 - company: Cronom (Istanbul, Turkey)
   position: Software Developer
-  duration:  Sep, 2016 &mdash; May, 2017
-  summary: I worked for an international company as an outsource software developer.
-
+  duration: Sep, 2016 &mdash; May, 2017
+  summary: Cronom is a software development house working with local and international companies.<ul class="resume-item-list">  <li> Developed and maintained a manufacturing control unit application that was responsible for taking inputs and redirecting those to the machinery. </li></ul><b>Tech Stack:</b> .NET stack, C#, ASP.NET WebForms, XML
 
 # Ester
 - company: Ester Elektronik (Eskisehir, Turkey)
-  position: Communications Coordinator
-  duration:   2012 &mdash; Jan 2016
-  summary: Ester is a company that serving the public institutions and energy sector organizations. Its products used by 4,500,000 users until 2016, has active 1,700,000 members in 2016. Ester is a firm with the understanding of information security. <ul class="resume-item-list"><li>Designed and developed an SaaS product from scratch. Its key features were quota consumption based on the customer contract. Tenant based custom modules that can be mounted on runtime. It has been using by government and energy sector organizations.</li><li>Maintained platform that manages all M2M modular services that mostly using by government.</li><li>Performed load tests and improved performance by implementing various ways such as caching, optimizing SQL queries, thread optimizing.</li><li>Gathering requirements from stakeholders who are CTO and project manager and planning the development phase.</li></ul> Leveraged knowledge in product architecture design, WCF, multithreading, load testing and other testing types, high volume transaction, RDMS, performance optimization, multitenancy, modular design, requirement analysis, communication with stakeholders.
+  position: Software Developer
+  duration: Jul, 2012 &mdash; Jan, 2016
+  summary: Ester is a company that serves the public institutions and energy sector organizations. Its products used by 4,500,000 users until 2016, has active 1,700,000 members in 2016. Ester is a firm operating in infosec industry. <ul class="resume-item-list">  <li>    Designed and developed a SaaS platform from scratch. The key features were    quota consumption based on the customer contract. Tenant based custom    modules that can be mounted on runtime. It has been using by government and    energy sector organizations.  </li>  <li>    Maintained platform that manages all M2M modular services that mostly used    by the government.  </li>  <li>    Performed load tests and improved performance by implementing various ways    such as caching, optimizing SQL queries, and thread optimizations.  </li>  <li>    Gathered requirements from stakeholders such as the CTO and the project    manager to plan the development steps.  </li></ul><b>Tech Stack:</b> .NET, C#, SOA, WCF, MSSQL, ORM (NHibernate), Multi-threading, LoadTesting, Unit Testing, High Volume Transaction, Performance Optimization,Multi-tenancy, Redmine, IIS, SVN, Web Services, Requirements Analysis, Selfhosting, Windows Services
