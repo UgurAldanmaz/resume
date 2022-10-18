@@ -3,7 +3,7 @@
 - company: Bondora (Remote, Tallinn, Estonia)
   position: Software Engineer
   duration: Jul, 2022 &mdash; Present
-  summary: 
+  summary:
 
 # XYZ
 - company: Xyz Technology (Remote, Istanbul, Turkey)
@@ -15,13 +15,13 @@
 - company: Verilogy (Istanbul, Turkey)
   position: Senior Fullstack Developer
   duration: Dec, 2019 &mdash; May, 2020
-  summary: Verilogy is a technology company based in Istanbul which builds privacy enhancing tools for companies to simplify their privacy management and make it automated and seamless.<ul class="resume-item-list">      <li> Gathering requirements from the product manager who is also a privacy pro with deep industry knowledge.     </li>    <li> Responsible for the technical design and maintenance of the platform.</li> </ul><b>Tech stack: </b>ASP.NET Core, Web API, Entity Framework, ReactJS, PostgreSQL, MongoDB, Heroku, CI/CD pipeline (GitHub Actions)
+  summary: Verilogy is a technology company based in Istanbul which builds privacy enhancing tools for companies to simplify their privacy management and make it automated and seamless.<ul class="resume-item-list">      <li> Gathering requirements from the product manager who is also a privacy pro with deep industry knowledge.     </li>    <li> Responsible for the technical design and maintenance of the platform.</li> </ul><b>Tech stack:</b> ASP.NET Core, Web API, Entity Framework, ReactJS, PostgreSQL, MongoDB, Heroku, CI/CD pipeline (GitHub Actions)
 
 # Netsparker
 - company: Netsparker (aka Invicti Security, Remote, Istanbul, Turkey)
   position: Senior Software Developer
   duration: Jun, 2017 &mdash; Dec, 2019
-  summary: Netsparker develops industry leading desktop and cloud based automated webapplication security scanners which are trusted and used by world renownedcompanies such as Samsung, Ernst & Young, Skype, NASA, ISACA and ING Bank.<ul class="resume-item-list">  <li>    By working closely with the Security Researcher team, developed Security    Check Engines which attack and identify vulnerabilities.  </li>  <li>    Responsible for quality and stability of the Security Check Engines and    whole product functions such as crawling. Took ownership of the internal    testing tool and automatized its crucial functions.  </li>  <li>    Automated start/shutdown process of the test agents that run on AWS    instances via AWS API which decreased AWS costs by 50%.  </li>  <li>    Responsible for a crucial dockerized service which helps to identify Out of    Band vulnerabilities.  </li></ul> <b>Tech Stack: </b>.NET stack, C#, Web Application Security, AWS API, Linux,Docker, WinForms, DevExpress, Unit Testing, NUnit, TeamCity, ASP.NET MVC, Git
+  summary: Netsparker develops industry leading desktop and cloud based automated webapplication security scanners which are trusted and used by world renownedcompanies such as Samsung, Ernst & Young, Skype, NASA, ISACA and ING Bank.<ul class="resume-item-list">  <li>    By working closely with the Security Researcher team, developed Security    Check Engines which attack and identify vulnerabilities.  </li>  <li>    Responsible for quality and stability of the Security Check Engines and    whole product functions such as crawling. Took ownership of the internal    testing tool and automatized its crucial functions.  </li>  <li>    Automated start/shutdown process of the test agents that run on AWS    instances via AWS API which decreased AWS costs by 50%.  </li>  <li>    Responsible for a crucial dockerized service which helps to identify Out of    Band vulnerabilities.  </li></ul> <b>Tech Stack:</b> .NET stack, C#, Web Application Security, AWS API, Linux,Docker, WinForms, DevExpress, Unit Testing, NUnit, TeamCity, ASP.NET MVC, Git
 
 # Cronom
 - company: Cronom (Istanbul, Turkey)

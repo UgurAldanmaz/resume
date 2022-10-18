@@ -6,7 +6,7 @@
   role: Contributor
   duration: August 2015 &mdash; February 2016
   url: "https://github.com/orgs/NLog"
-  description: NLog is a flexible and free logging platform for various .NET platforms,including .NET standard. Because of my contributions, I have been included onthe official team list.<ul class="resume-item-list">  <li>Developed and maintained a few logging target and layout renderer.</li>  <li>Answered user questions and helped them with various subjects.</li>  <li>Reviewed user bug reports and fixed them.</li>  <li>Reviewed Pull Requests</li>  <li>Maintained Wiki Pages and documentation.</li></ul><b>Tech Stack: </b>C#, AppVeyor, Travis CI, CodeCov, XUnit, Git
+  description: NLog is a flexible and free logging platform for various .NET platforms,including .NET standard. Because of my contributions, I have been included onthe official team list.<ul class="resume-item-list">  <li>Developed and maintained a few logging target and layout renderer.</li>  <li>Answered user questions and helped them with various subjects.</li>  <li>Reviewed user bug reports and fixed them.</li>  <li>Reviewed Pull Requests</li>  <li>Maintained Wiki Pages and documentation.</li></ul><b>Tech Stack:</b> C#, AppVeyor, Travis CI, CodeCov, XUnit, Git
 
 # Restauran Client App.
 - project: Restaurant Automation Client (Android App)
